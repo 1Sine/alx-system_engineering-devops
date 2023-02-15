@@ -1,1 +1,1 @@
-Paths
+Local variable
