@@ -1,1 +1,1 @@
-Best school
+Global variable
