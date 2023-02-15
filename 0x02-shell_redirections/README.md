@@ -1,1 +1,1 @@
-State directory
+Count directories
