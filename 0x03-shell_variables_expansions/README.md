@@ -1,1 +1,1 @@
-Global variable
+Knowledge
